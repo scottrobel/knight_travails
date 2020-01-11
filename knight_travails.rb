@@ -114,5 +114,4 @@ class Board
     board_range.include?(x_position) && board_range.include?(y_position)
   end
 end
-my_board = Board.new
-my_board.knight_moves([0, 0], [0, 1])
+
