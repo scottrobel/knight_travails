@@ -1,4 +1,4 @@
-This program uses dijkstra's algorithms to find the shortest path that a knight can take between any two given spaces on a board!
+This program uses dijkstra's algorithm to find the shortest path that a knight can take between any two given spaces on a board!
 syntax
 to find the shortest path between [0, 0] and [0, 1]
 you would use this code
