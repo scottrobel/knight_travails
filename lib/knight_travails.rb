@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
-# a board represents a mesh of connected nodes
-# that are connected threw all the positions that a knight can travel
+
 class Board
   attr_reader :board
   def initialize
@@ -114,4 +113,3 @@ class Board
     board_range.include?(x_position) && board_range.include?(y_position)
   end
 end
-
