@@ -44,7 +44,7 @@ class Board
   end
 
   def print_path(path)
-    print "You made it in #{path.length} Moves!\n"
+    print "You made it in #{path.length - 1} Moves!\n"
     path.each do |position|
       print "#{position}\n"
     end
