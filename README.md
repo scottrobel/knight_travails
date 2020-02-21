@@ -1,6 +1,6 @@
 This program uses dijkstra's algorithm to find the shortest path that a knight can take between any two given spaces on a board!
 syntax
-to find the shortest path between [0, 0] and [0, 1]
+to find the shortest path between [0, 1] and [7, 7]
 you would use this code
 ```
 my_board = Board.new
